@@ -1,0 +1,657 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "name": "Sony PlayStation 5",
+      "brand": "Sonyz",
+      "category": "phone",
+      "price": 4991,
+      "description": "The PlayStation 55 is Sony's latest gaming console, offering cutting-edge graphics, lightning-fast load times, and immersive gaming experiences.",
+      "imageFilename": "product6.jpg",
+      "createdAt": "2024/05/21"
+    },
+    {
+      "id": 7,
+      "name": "zzzaa",
+      "brand": "zzz",
+      "category": "Open this select menu",
+      "price": 2000,
+      "description": "111",
+      "imageFilename": "1716269753070-1716217488012-product1.jpg",
+      "createdAt": "2024-05-21T05:35:53.072Z"
+    },
+    {
+      "id": 8,
+      "name": "sadasd",
+      "brand": "111",
+      "category": "laptop",
+      "price": 333,
+      "description": "111",
+      "imageFilename": "1716388090592-1716217488012-product1.jpg",
+      "createdAt": "2024-05-22T14:28:10.599Z"
+    },
+    {
+      "id": 9,
+      "name": "dien thoai",
+      "brand": "10",
+      "category": "playstation",
+      "price": 20,
+      "description": "10",
+      "imageFilename": "1716436162212-1716217488012-product1.jpg",
+      "createdAt": "2024-05-23T03:49:22.214Z"
+    },
+    {
+      "id": 10,
+      "name": "Sony 9182",
+      "brand": "123123",
+      "category": "laptop",
+      "price": 20,
+      "description": "01",
+      "imageFilename": "1716436191988-1716217488012-product1.jpg",
+      "createdAt": "2024-05-23T03:49:51.989Z"
+    },
+    {
+      "review_img": "1717154923831-1716906646122-1716458190761-1716217983899-product1.jpg",
+      "review_studentNumber": "9",
+      "score": "9",
+      "review_courseId": "",
+      "studentReview": "9",
+      "createdAt": "2024-05-31T11:28:43.838Z",
+      "id": 11
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "course_name": "Business English Course",
+      "course_description": "Whether it's a first brush on canvas or the last frame in an animation, Skillshare is here to support you on every step of your creative journey.",
+      "course_price": "1200",
+      "course_duration": "6",
+      "course_img": "1717088179273-1716385756919-1716217983899-product1.jpg",
+      "createdAt": "2024-05-21"
+    },
+    {
+      "id": 2,
+      "course_name": "TOEFL Preparation Course",
+      "course_description": "Get ready for the TOEFL exam with in-depth lessons and practice exercises.",
+      "course_price": 1100,
+      "course_duration": 5,
+      "course_img": "IELTSPreparationCourse.jpg",
+      "createdAt": "2024-05-22"
+    },
+    {
+      "id": 3,
+      "course_name": "Business English",
+      "course_description": "Improve your business English skills for the workplace.",
+      "course_price": 900,
+      "course_duration": 4,
+      "course_img": "toiec4KyNang.jpg",
+      "createdAt": "2024-05-23"
+    },
+    {
+      "id": 4,
+      "course_name": "Conversational English",
+      "course_description": "Enhance your English speaking skills through practical conversations.",
+      "course_price": 800,
+      "course_duration": 3,
+      "course_img": "toiec4KyNang.jpg",
+      "createdAt": "2024-05-24"
+    },
+    {
+      "id": 6,
+      "course_name": "Business Chinese",
+      "course_description": "Improve your business English skills for the workplace.",
+      "course_price": 900,
+      "course_duration": 4,
+      "course_img": "toiec4KyNang.jpg",
+      "createdAt": "2024-05-23"
+    },
+    {
+      "id": 7,
+      "course_name": "TOEFL Quickly Course",
+      "course_description": "Get ready for the TOEFL exam with in-depth lessons and practice exercises.",
+      "course_price": 1100,
+      "course_duration": 5,
+      "course_img": "IELTSPreparationCourse.jpg",
+      "createdAt": "2024-05-22"
+    },
+    {
+      "id": 8,
+      "course_name": "Business Janpanes Course",
+      "course_description": "Whether it's a first brush on canvas or the last frame in an animation, Skillshare is here to support you on every step of your creative journey.",
+      "course_price": "1200",
+      "course_duration": "6",
+      "course_img": "1717088179273-1716385756919-1716217983899-product1.jpg",
+      "createdAt": "2024-05-21"
+    },
+    {
+      "id": 9,
+      "course_name": "TOEFL Germagy Course",
+      "course_description": "Get ready for the TOEFL exam with in-depth lessons and practice exercises.",
+      "course_price": 1100,
+      "course_duration": 5,
+      "course_img": "IELTSPreparationCourse.jpg",
+      "createdAt": "2024-05-22"
+    }
+  ],
+  "detailCourse": [
+    {
+      "id": 1,
+      "course_id": 2,
+      "location": "Bình Thạnh",
+      "day": "Thứ 2,Thứ 6,Thứ 7",
+      "start": "6h",
+      "end": "7h30"
+    },
+    {
+      "id": 2,
+      "course_id": 2,
+      "location": "Thủ Đức",
+      "day": "Thứ 3, Thứ 4,Thứ 7",
+      "start": "6h",
+      "end": "7h30"
+    },
+    {
+      "id": 3,
+      "course_id": 1,
+      "location": "Bình Thạnh",
+      "day": "Thứ 3,Thứ 5,Thứ 7",
+      "start": "6h",
+      "end": "7h30"
+    },
+    {
+      "id": 4,
+      "course_id": 1,
+      "location": "Thủ Đức",
+      "day": "Thứ 2, Thứ 3,Thứ 7",
+      "start": "6h30",
+      "end": "8h30"
+    },
+    {
+      "id": 5,
+      "course_id": 3,
+      "location": "Bình Thạnh",
+      "day": "Thứ 5,Thứ 6,Thứ 7",
+      "start": "8h",
+      "end": "9h30"
+    },
+    {
+      "id": 6,
+      "course_id": 3,
+      "location": "Thủ Đức",
+      "day": "Thứ 2, Thứ 4,Thứ 5",
+      "start": "5h",
+      "end": "6h30"
+    },
+    {
+      "id": 7,
+      "course_id": 4,
+      "location": "Bình Thạnh",
+      "day": "Thứ 3,Thứ 6,Thứ 7",
+      "start": "6h",
+      "end": "7h30"
+    },
+    {
+      "id": 8,
+      "course_id": 4,
+      "location": "Thủ Đức",
+      "day": "Thứ 3, Thứ 4,Thứ 7",
+      "start": "6h",
+      "end": "7h30"
+    }
+  ],
+  "locationCourse": [
+    {
+      "id": 1,
+      "locationName": "Thủ Đức",
+      "course_id": 1
+    },
+    {
+      "id": 2,
+      "locationName": "Bình Thạnh",
+      "course_id": 1
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "admin_name": "Nguyễn Thành Đạt",
+      "password": 123,
+      "email": "nnguyendat72@gmail.com"
+    },
+    {
+      "id": 2,
+      "admin_name": "Nguyễn Minh Hiệp",
+      "password": 123,
+      "email": "minhhiep325@gmail.com"
+    },
+    {
+      "id": 3,
+      "admin_name": "Nguyen Duc Toan",
+      "password": 123,
+      "email": "nhoctoan6666@gmail.com"
+    },
+    {
+      "name": "khang",
+      "email": "khang@gmail.com",
+      "password": 123,
+      "id": 4
+    },
+    {
+      "name": "Nhan",
+      "email": "nhan@gmail.com",
+      "password": 123,
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "ga@gmail.com",
+      "password": 123,
+      "id": 6
+    },
+    {
+      "name": "binh",
+      "email": "binh@gmail.com",
+      "password": 123,
+      "id": 7
+    }
+  ],
+  "lecturers": [
+    {
+      "id": 1,
+      "lecturer_img": "tom.jpg",
+      "lecturer_name": "MR.Hóa Lộc",
+      "lecturer_certificate": "Thạc sỹ Ngôn Ngữ Anh , IELTS Reading 8.5 & Writing 7.0 , Kinh nghiệm 09 năm luyện thi các chứng chỉ",
+      "lecturer_description": "“Là thủ khoa Cử nhân Luật &amp; thủ khoa Thạc sỹ Ngôn ngữ Anh, tôi hiểu những khó khăn của người học tiếng Anh và biết cách để giúp người học yêu ngôn ngữ này. Bằng kiến thức, kỹ năng, và kinh nghiệm của mình, tôi hy vọng có thể giúp các bạn vượt qua nỗi lo lắng về “anh chàng” Tiếng Anh này. Tiếng Anh không khó, hãy tìm hiểu và nỗ lực, bạn sẽ “chinh phục” được!”"
+    },
+    {
+      "id": 2,
+      "lecturer_img": "arthur.jpg",
+      "lecturer_name": "MS.Thiên Trân",
+      "lecturer_certificate": "Cử nhân Ngữ Văn Anh , Đại học KHXH & NV TP.HCM , TOEIC 900 & TOEIC SW 320",
+      "lecturer_description": "“Với kinh nghiệm 10 năm giảng dạy Tiếng Anh, kinh nghiệm luyện thi và niềm đam mê với sự nghiệp “truyền lửa” đến học viên nhiều lứa tuổi, tôi mong muốn giúp các bạn học viên vượt qua rào cản ngôn ngữ này bằng phương pháp học hiệu quả, luôn đổi mới với xu hướng hiện đại. Chưa cần các bạn giỏi, cần trước là sự cố gắng.”"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "John Doe lol",
+      "email": "johndoe@example.com",
+      "phone": "1234567890",
+      "id_course": "1",
+      "requirement": "I'm interested in learning more about the course content and structure."
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "janedoe@example.com",
+      "phone": 9876543210,
+      "id_course": "2",
+      "requirement": "Can you provide information about the prerequisites for this course?"
+    },
+    {
+      "id": 3,
+      "name": "Peter Jones",
+      "email": "peterjones@example.com",
+      "phone": 123456789,
+      "id_course": "3",
+      "requirement": "I'd like to know about the instructor's experience and qualifications."
+    },
+    {
+      "id": 4,
+      "name": "Mary Smith",
+      "email": "marysmith@example.com",
+      "phone": 2345678901,
+      "id_course": "1",
+      "requirement": "Are there any scholarships or financial aid options available for this course?"
+    },
+    {
+      "id": 5,
+      "name": "David Williams",
+      "email": "davidwilliams@example.com",
+      "phone": 3456789012,
+      "id_course": "2",
+      "requirement": "What is the course schedule and format (online, in-person, etc.)?"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Johnson",
+      "email": "sarahjohnson@example.com",
+      "phone": 4567890123,
+      "id_course": "3",
+      "requirement": "Can I see some sample course materials or assignments?"
+    },
+    {
+      "id": 7,
+      "name": "Michael Brown",
+      "email": "michaelbrown@example.com",
+      "phone": 5678901234,
+      "id_course": "1",
+      "requirement": "What are the job opportunities or career paths related to this course?"
+    },
+    {
+      "id": 8,
+      "name": "Elizabeth Taylor",
+      "email": "elizabethtaylor@example.com",
+      "phone": 6789012345,
+      "id_course": "2",
+      "requirement": "Are there any opportunities for hands-on learning or internships?"
+    },
+    {
+      "id": 9,
+      "name": "Robert Smith",
+      "email": "robertsmith@example.com",
+      "phone": 7890123456,
+      "id_course": "3",
+      "requirement": "What is the typical student profile or background for this course?"
+    },
+    {
+      "id": 10,
+      "name": "Jennifer Jones",
+      "email": "jenniferjones@example.com",
+      "phone": 8901234567,
+      "id_course": "1",
+      "requirement": "I'm interested in learning about the language requirements for this course."
+    },
+    {
+      "id": 11,
+      "name": "Mark Williams",
+      "email": "markwilliams@example.com",
+      "phone": 9012345678,
+      "id_course": "2",
+      "requirement": "Can you provide more information about the assessment and grading system?"
+    },
+    {
+      "id": 12,
+      "name": "Linda Brown",
+      "email": "lindabrown@example.com",
+      "phone": 1012345678,
+      "id_course": "1",
+      "requirement": "What are the attendance policies for this course?"
+    },
+    {
+      "id": 13,
+      "name": "Charles Miller",
+      "email": "charlesmiller@example.com",
+      "phone": 1112345678,
+      "id_course": "3",
+      "requirement": "Is there any certificate or diploma awarded upon completing the course?"
+    },
+    {
+      "id": 14,
+      "name": "Susan Garcia",
+      "email": "susangarcia@example.com",
+      "phone": 1212345678,
+      "id_course": "2",
+      "requirement": "Do you offer any payment plans or financing options for the course fee?"
+    },
+    {
+      "id": 15,
+      "name": "Daniel Robinson",
+      "email": "danielrobinson@example.com",
+      "phone": 1312345678,
+      "id_course": "1",
+      "requirement": "What is the duration of the course (weeks, months, etc.)?"
+    },
+    {
+      "id": 16,
+      "name": "Margaret Wilson",
+      "email": "margaretwilson@example.com",
+      "phone": 1412345678,
+      "id_course": "2",
+      "requirement": "Are there any prerequisites or required knowledge for this course?"
+    },
+    {
+      "id": 17,
+      "name": "Kenneth Thomas",
+      "email": "kenneththomas@example.com",
+      "phone": 1512345678,
+      "id_course": "3",
+      "requirement": "What are the class sizes typically like for this course?"
+    },
+    {
+      "id": 18,
+      "name": "Evelyn Johnson",
+      "email": "evelynjohnson@example.com",
+      "phone": 1612345678,
+      "id_course": "1",
+      "requirement": "Is there any opportunity to take makeup exams or assignments?"
+    },
+    {
+      "name": "Minhxss",
+      "email": "minhhiep325@gmail.com",
+      "phone": "7657455477",
+      "id_course": "3",
+      "requirement": "ẻ6435w634twgwrgr",
+      "id": 19
+    },
+    {
+      "name": "John Doe loọ",
+      "email": "johndoe@example.com",
+      "phone": "1234567890",
+      "id_course": "7",
+      "requirement": "ugvtfbnjklmnbvfthbjhnbhgcvdfvbhjnbvcfvuhbghbjvgfvbbhmng\r\n\\\r\n",
+      "id": 20
+    },
+    {
+      "name": "Minhxss",
+      "email": "minhhiep325@gmail.com",
+      "phone": "7657455477",
+      "id_course": "7",
+      "requirement": "bdryreyeryefhrthntrnrth",
+      "id": 21
+    },
+    {
+      "name": "quan",
+      "email": "quan@gmail.com",
+      "phone": "0192111",
+      "id_course": "1",
+      "requirement": "aaaaaaa",
+      "id": 22
+    }
+  ],
+  "HistorySearch": [
+    {
+      "id": 1,
+      "search_name": "MR.Hóa Lộc"
+    },
+    {
+      "id": 2,
+      "search_name": "Business English"
+    },
+    {
+      "id": 3,
+      "search_name": "english"
+    },
+    {
+      "id": 4,
+      "search_name": "ielts"
+    },
+    {
+      "search_name": "",
+      "id": 5
+    },
+    {
+      "search_name": "",
+      "id": 6
+    },
+    {
+      "search_name": "",
+      "id": 7
+    },
+    {
+      "search_name": "",
+      "id": 8
+    },
+    {
+      "search_name": "",
+      "id": 9
+    },
+    {
+      "search_name": "",
+      "id": 10
+    },
+    {
+      "search_name": "",
+      "id": 11
+    },
+    {
+      "search_name": "dfgdfg",
+      "id": 12
+    },
+    {
+      "search_name": "dfgdfg",
+      "id": 13
+    },
+    {
+      "search_name": "dfgdfg",
+      "id": 14
+    },
+    {
+      "search_name": "dfgdfg",
+      "id": 15
+    },
+    {
+      "search_name": "dfgdfg",
+      "id": 16
+    },
+    {
+      "search_name": "teic",
+      "id": 17
+    },
+    {
+      "search_name": "teic",
+      "id": 18
+    },
+    {
+      "search_name": "teic",
+      "id": 19
+    },
+    {
+      "search_name": "teic",
+      "id": 20
+    },
+    {
+      "search_name": "teic",
+      "id": 21
+    },
+    {
+      "search_name": "TOEIC",
+      "id": 22
+    },
+    {
+      "search_name": "TOEIC",
+      "id": 23
+    },
+    {
+      "search_name": "TOEIC",
+      "id": 24
+    },
+    {
+      "search_name": "TOEIC",
+      "id": 25
+    },
+    {
+      "search_name": "TOEIC",
+      "id": 26
+    },
+    {
+      "search_name": "TOEIC",
+      "id": 27
+    },
+    {
+      "search_name": "Bussiness",
+      "id": 28
+    },
+    {
+      "search_name": "english",
+      "id": 32
+    },
+    {
+      "search_name": "english",
+      "id": 35
+    }
+  ],
+  "ScoreAndReview": [
+    {
+      "id": 1,
+      "review_img": "bangdiemtoiec.jpg",
+      "review_studentImg": "tom.jpg",
+      "review_studentEmail": "nguyencongphuong@gmail.com",
+      "studentReview": "Khóa học rất chất lượng, tôi đã có thể giao tiếp thành thạo tiếng anh",
+      "score": "187"
+    },
+    {
+      "id": 2,
+      "review_img": "bangdiemtoiec.jpg",
+      "review_studentImg": "arthur.jpg",
+      "review_studentEmail": "nguyencongphuong@gmail.com",
+      "studentReview": "Khóa học rất chất lượng, tôi đã có thể giao tiếp thành thạo tiếng anh",
+      "score": "187"
+    },
+    {
+      "id": 3,
+      "review_img": "bangdiemtoiec.jpg",
+      "review_studentImg": "tom.jpg",
+      "review_studentEmail": "minhhiep325@gmail.com",
+      "score": "590",
+      "studentReview": "Tôi đã tự tin hơn trong việc giao tiếp bằng tiếng anh"
+    },
+    {
+      "id": 4,
+      "review_img": "bangdiemtoiec.jpg",
+      "review_studentImg": "arthur.jpg",
+      "review_studentEmail": "nnguyendat72@gmail",
+      "score": "450",
+      "studentReview": "Tôi đã có thể giao tiếp bằng tiếng anh"
+    },
+    {
+      "id": 5,
+      "review_img": "bangdiemtoiec.jpg",
+      "review_studentImg": "tom.jpg",
+      "review_studentEmail": "thoai@gmail.com",
+      "score": "700",
+      "studentReview": "Thầy cô giảng bài rất chi tiết và dễ hiểu"
+    },
+    {
+      "review_studentImg": "1717485727057-7.jpg",
+      "review_img": "1717485727060-1717485130992-bangdiemtoiec.jpg",
+      "review_studentEmail": "quoc@gmail.com",
+      "score": "500",
+      "studentReview": "quasjdbjasjdbaskdjasdsadasdsadsadaszxczxcz",
+      "id": 6
+    },
+    {
+      "review_studentImg": "1717486188235-8.jpg",
+      "review_img": "1717486188241-product5.jpg",
+      "review_studentEmail": "nam@gmail.com",
+      "score": "950",
+      "studentReview": "sadjsadkjsadkasjd",
+      "id": 7
+    },
+    {
+      "review_studentImg": "1717572693219-5-2.jpg",
+      "review_img": "1717572693220-1716480540250-product6.jpg",
+      "review_studentEmail": "hung@gmail.com",
+      "score": "500",
+      "studentReview": "0192918sdfdsfdsfs",
+      "id": 8
+    },
+    {
+      "review_studentImg": "1717576693349-5-2.jpg",
+      "review_img": "1717576693351-1717152112054-arthur.jpg",
+      "review_studentEmail": "quan@gmail.com",
+      "score": "30",
+      "studentReview": "ádsadasdasaaaaaa",
+      "id": 9
+    },
+    {
+      "review_studentImg": "1717580616388-1717160193065-arthur.jpg",
+      "review_img": "1717580616388-1717485727060-1717485130992-bangdiemtoiec.jpg",
+      "review_studentEmail": "quan@gmail.com",
+      "score": "700",
+      "studentReview": "khoa hoc rat tot",
+      "id": 10
+    }
+  ]
+}
